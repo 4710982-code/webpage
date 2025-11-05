@@ -1,6 +1,6 @@
 title:  Soy Ana y esta es mi pagina web de puta mierda 
 description: soy la mejor del mundo y por eso teneis que meteros ami pagina web:) 
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
