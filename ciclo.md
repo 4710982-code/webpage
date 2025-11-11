@@ -32,7 +32,7 @@ permalink: /ciclos/
 |1|	Técnicas básicas de enfermería|	350|
 |1|	Higiene del medio hospitalario y limpieza de material|	155|
 |1|	Promoción de la salud y apoyo psicológico al paciente|	130|
-|1|	Técnicas de ayuda odontológica/estomatológica|	1301
+|1|	Técnicas de ayuda odontológica/estomatológica|	1301|
 |1|	Relaciones en el equipo de trabajo|	65|
 |1|	Itinerario personal para la Empleabilidad I|	65|
 |2|	Formación en centros de trabajo|	440|
@@ -57,7 +57,7 @@ permalink: /ciclos/
 
 ## Servivicios administrativos
 
-|Curso|	Módulo Profesional|	Horas totales|
+| Curso |	Módulo Profesional |	Horas totales |
 |1|	Tratamiento informático de datos|	300|
 |1|	Técnicas administrativas básicas|	260|
 |1|	Atención al cliente|	75|
@@ -74,7 +74,7 @@ permalink: /ciclos/
 |2|	Proyecto intermodular de aprendizaje colaborativo|	50|
 ## Alojamiento y Lavanderia
 
-|Curso|	Módulo Profesional|	Horas totales|
+| Curso |	Módulo Profesional |	Horas totales |
 |1|	Materiales y productos textiles|	115|
 |1|	Lavado y secado de ropa|	185|
 |1| Planchado y embolsado de ropa|	185|
