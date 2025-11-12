@@ -27,6 +27,7 @@ permalink: /ciclos/
 |2|	Optativa|	80|
 
 ## Cuidados Auxiliares de Enfermeria
+
 | Curso |	Módulo Profesional |	Horas totales |
 |1|	Operaciones administrativas y documentación sanitaria|	65|
 |1|	Técnicas básicas de enfermería|	 350|
@@ -72,6 +73,7 @@ permalink: /ciclos/
 |2|	Comunicación y sociedad II|	 130|
 |2|	Tutoría|	30|
 |2|	Proyecto intermodular de aprendizaje colaborativo|	50|
+
 ## Alojamiento y Lavanderia
 
 | Curso |	Módulo Profesional |	Horas totales |
