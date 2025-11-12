@@ -3,13 +3,13 @@ layout: single
 title: Ciclos formativos
 permalink: /ciclos/
 toc: true
-toc_label: selecciona mi ciclo
+toc_label: selecciona un ciclo
 ---
 
 # C.F de Grado medio
 ## Gestion Administrativa
 
-Competencia general
+..Competencia general..
 
 La competencia general de este título consiste en realizar actividades de apoyo administrativo en el ámbito laboral, contable, comercial, financiero y fiscal, así como de atención al cliente/usuario, tanto en empresas públicas como privadas, aplicando la normativa vigente y protocolos de calidad, asegurando la satisfacción del cliente y actuando según normas de prevención de riesgos laborales y protección ambiental.
 
