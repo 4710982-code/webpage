@@ -8,6 +8,9 @@ toc: true
 # C.F de Grado medio
 ## Gestion Adminitrativa
 
+COMPETENCIA GENERAL
+La competencia general de este título consiste en realizar actividades de apoyo administrativo en el ámbito laboral, contable, comercial, financiero y fiscal, así como de atención al cliente/usuario, tanto en empresas públicas como privadas, aplicando la normativa vigente y protocolos de calidad, asegurando la satisfacción del cliente y actuando según normas de prevención de riesgos laborales y protección ambiental.
+
 | Curso |	Módulo Profesional |	Horas totales | 
 |1|	Comunicación empresarial y atención al cliente|	135|
 |1|	Operaciones administrativas de compra-venta|	175|
@@ -29,6 +32,9 @@ toc: true
 
 ## Cuidados Auxiliares de Enfermeria
 
+COMPETENCIA GENERAL
+Los requerimientos generales de cualificación profesional del sistema productivo para este técnico son: Proporcionar cuidados al paciente / cliente y actuar sobre las condiciones sanitarias de su entorno como miembro de un equipo de enfermería o en los centros sanitarios de atención especializada y de atención primaria, bajo la dependencia del diplomado en enfermería o, en su caso, como miembro de un equipo de salud en la asistencia sanitaria derivada de la práctica del ejercicio liberal, bajo la supervisión correspondiente.
+
 | Curso |	Módulo Profesional |	Horas totales |
 |1|	Operaciones administrativas y documentación sanitaria|	65|
 |1|	Técnicas básicas de enfermería|	 350|
@@ -42,6 +48,9 @@ toc: true
 
 # C.F. de Grado Basico
 ## Informatica de oficina
+
+COMPETENCIA GENERAL
+La competencia general de este título consiste en instalar, configurar y mantener sistemas microinformáticos, aislados o en red, así como redes locales en pequeños entornos, asegurando su funcionalidad y aplicando los protocolos de calidad, seguridad y respeto al medio ambiente establecidos.
 
 | Curso |	Módulo Profesional |	Horas totales |
 |1|	Montaje y mantenimiento de sistemas y componentes informáticos|	375|
@@ -58,6 +67,9 @@ toc: true
 |2|	Proyecto intermodular de aprendizaje colaborativo|	50|
 
 ## Servivicios administrativos
+
+COMPETENCIA GENERAL
+La competencia general del título consiste en realizar tareas administrativas y de gestión básicas, con autonomía con responsabilidad e iniciativa personal, operando con la calidad indicada, observando las normas de aplicación vigente medioambientales y de seguridad e higiene en el trabajo y comunicándose de forma oral y escrita en lengua castellana y, en su caso, en la lengua cooficial propia así como en alguna lengua extranjera.
 
 | Curso |	Módulo Profesional |	Horas totales |
 |1|	Tratamiento informático de datos|	 300|
@@ -76,6 +88,9 @@ toc: true
 |2|	Proyecto intermodular de aprendizaje colaborativo|	50|
 
 ## Alojamiento y Lavanderia
+
+COMPETENCIA GENERAL
+La competencia general del título consiste en realizar con autonomía la limpieza y puesta a punto de las habitaciones en alojamientos turísticos o de otra índole y de las áreas comunes de éstos, cuidando el buen estado de instalaciones y mobiliario, así como realizar las operaciones de clasificación, lavado y limpieza de artículos textiles en instalaciones industriales, asistiendo en los procesos de servicio y atención al cliente, siguiendo los protocolos de calidad establecidos, observando las normas de higiene, prevención de riesgos laborales y protección medioambiental, con responsabilidad e iniciativa personal y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
 | Curso |	Módulo Profesional |	Horas totales |
 |1|	Materiales y productos textiles|	115|
