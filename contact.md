@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: layout
 title: Pagina de contacto
 permalink: /contacto/
 ---
