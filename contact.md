@@ -1,9 +1,9 @@
 ---
-## Contacto
 layout: splash
 title: Pagina de contacto
 permalink: /contacto/
 ---
+## Contacto
 
 Contenido de la pagina Contacto.
 Para ponerte en contacto con nosotros puedes:
